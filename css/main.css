@@ -83,7 +83,7 @@ a:focus-visible {
     border-radius: 15px solid #62119c;
     text-align: center;
     padding-block: 15px;
-    max-width: 255px;
+    width: 255px;
     color:#ffff;
     font-size: 18px;
     font-family: "Outfit", sans-serif;
